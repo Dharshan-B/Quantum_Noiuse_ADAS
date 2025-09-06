@@ -1,0 +1,11 @@
+Working 
+
+CarA (leader) suddenly hard-brakes.
+
+The emergency brake alert is encoded → transmitted → received by CarB.
+
+CarB’s ADAS auto-brakes and also re-broadcasts the emergency alert.
+
+CarC receives the alert from CarB and brakes automatically.
+
+End result → a domino safety effect preventing rear-end collisions in the convoy
